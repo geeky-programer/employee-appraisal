@@ -1,5 +1,6 @@
 Employee upraisal project
 
+Spring Hibernate with H2 databse 
 
 Repo Usage commands:
 mvn clean install   
